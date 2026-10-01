@@ -24,3 +24,15 @@ All artwork in this repository has been created using **AI-generated imagery** s
 The images are intended as unofficial fan-made artwork and are not meant to represent or reproduce official promotional material.
 
 ## Disclaimer
+
+These themes are unofficial fan-made creations.
+
+This repository is not affiliated with, endorsed by, or connected to:
+
+- Study Tools for Magister
+- Magister
+- Stray Kids
+- JYP Entertainment
+- Any other artists, bands, companies, or brands referenced by a theme
+
+All trademarks and names belong to their respective owners.
