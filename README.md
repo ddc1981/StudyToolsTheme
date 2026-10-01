@@ -1,5 +1,26 @@
-# StudyToolsTheme
+# StudyTools Themes
 
-Made to share Pictures and theme's for StudyTools for Magister
+A collection of custom themes and images made for **Study Tools for Magister**.
+Download a `.sttheme` file, import it into Study Tools for Magister, and you're ready to go.
 
-Pictures are NO official Pictures from bands or brands the are made with AI.
+## Installing a theme
+
+1. Download the desired `*.sttheme` file from this repository.
+2. Open **Magister** with the **Study Tools for Magister** extension installed.
+3. Open **Study Tools**.
+4. Go to the theme/settings section.
+5. Choose the option to **import/load a theme**.
+6. Select the downloaded `*.sttheme` file.
+7. Reload Magister if necessary.
+
+The theme will automatically use the required images hosted in this repository.
+
+## Images and artwork
+
+The images used in these themes are **not official images** from the artists, bands, companies, brands, or other copyright holders they are inspired by.
+
+All artwork in this repository has been created using **AI-generated imagery** specifically for these custom Study Tools themes.
+
+The images are intended as unofficial fan-made artwork and are not meant to represent or reproduce official promotional material.
+
+## Disclaimer
